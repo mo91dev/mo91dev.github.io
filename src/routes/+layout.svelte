@@ -4,8 +4,8 @@
 	import '../app.css';
 </script>
 
-<main class="">
-	<div class="">
+<main>
+	<div class="flex h-screen pr-8 pl-8 pb-8">
 		<header>
 			<NavBar />
 		</header>

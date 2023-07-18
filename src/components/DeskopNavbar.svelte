@@ -1,9 +1,8 @@
 <script lang="ts">
-	import DeskopNavbar from './DeskopNavbar.svelte';
 </script>
 
 <main>
-	<DeskopNavbar />
+	<div class="" />
 </main>
 
 <style lang="scss">
